@@ -1,6 +1,10 @@
 ### Olá! Eu sou o Guilherme Augusto de Souza 👨‍💻
 
-Sou profissional de Business Intelligence com experiência no ramo securitário. Tenho formação em Tecnologia para Banco de Dados e possuo certificações relevantes, como Fundamentos na Lei Geral de Proteção de Dados - LGPDF e Scrum Foundation Professional Certificate - SFPC.
+Sou um profissional de Business Intelligence com formação em Tecnologia para Banco de Dados e certificações em LGPD e Scrum. Tenho ampla experiência em ETL e visualização de dados, utilizando ferramentas como Python, Power BI e Tableau. Também sou proficientes em gerenciamento de projetos com ferramentas como Artia e Bizagi. Atualmente, estou expandindo meu conhecimento em Engenharia de Dados e computação em nuvem.
+
+## Contato
+
+- **E-mail**: guiaugustosouza@hotmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeaugustosouza/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://pointy-carver-bdb.notion.site/Dicion-rio-de-dados-dos-fornecedores-74d0bac2f2954108abebe38efacc6f4a?pvs=4)
