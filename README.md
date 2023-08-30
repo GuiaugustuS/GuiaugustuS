@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme Augusto de Souza 👨‍💻
 
-Sou um profissional de Business Intelligence com formação em Tecnologia para Banco de Dados e certificações em LGPD e Scrum. Tenho ampla experiência em ETL e visualização de dados, utilizando ferramentas como Python, Power BI e Tableau. Também sou proficientes em gerenciamento de projetos com ferramentas como Artia e Bizagi. Atualmente, estou expandindo meu conhecimento em Engenharia de Dados e computação em nuvem.
+Sou um profissional de Business Intelligence com formação em Tecnologia para Banco de Dados e certificações em LGPD e Scrum. Tenho ampla experiência em ETL e visualização de dados, utilizando ferramentas como Python, Power BI e Tableau. Também atuei em gerenciamento de projetos com ferramentas como Artia e Bizagi. Atualmente, estou expandindo meu conhecimento em Engenharia de Dados e computação em nuvem.
 
 ## Contato
 
